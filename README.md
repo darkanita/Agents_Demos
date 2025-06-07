@@ -11,7 +11,7 @@ This repository provides technical enablement resources, code samples, and demon
   - `4 Azure AI Agent service - Code interpreter.ipynb`: Integrates code interpretation capabilities with Azure AI agents.
   - `5 Azure AI Agent service - Function calling.ipynb`: Demonstrates function calling with Azure AI agents.
   - `6 Azure AI Agent service - Bing integration.ipynb`: Shows how to integrate Bing search with Azure AI agents.
-  - `7 Azure AI Agent Service - SOP agent catalog example.ipynb`: Example of a Standard Operating Procedure (SOP) agent catalog.
+
 
 - **Configuration and Environment**
   - `azure.env`, `azure.env.sample`: Environment variable files for Azure credentials and configuration.
@@ -42,7 +42,7 @@ This repository is designed to accelerate technical enablement for HEWARE by pro
 ## Getting Started
 
 1. Clone the repository.
-2. Set up your environment variables using `azure.env.sample` as a template.
+2. Set up your environment variables using `azure.env.sample` as a template, and rename to azure.env
 3. Install required dependencies from `requirements.txt`.
 4. Explore the Jupyter notebooks for step-by-step guides and code samples.
 
