@@ -18,21 +18,6 @@ This repository provides technical enablement resources, code samples, and demon
 - **Configuration and Environment**
   - `azure.env`, `azure.env.sample`: Environment variable files for Azure credentials and configuration.
 
-- **Python Modules**
-  - `user_functions.py`: Custom user-defined functions for agent workflows.
-  - `cu/`:  
-    - `AgentInstructions.md`: Instructions for agent behavior and configuration.
-    - `content_understanding_tool.py`: Tools for content understanding and analysis.
-    - `cu.env`: Environment variables for content understanding tools.
-    - `CUAnalyzerSchema.json`: JSON schema for content analysis.
-    - `sop_agent.py`: Implementation of a SOP agent.
-    - `sop.mp4`: Video resource for SOP agent demonstration.
-
-- **Assets and Results**
-  - `agent.jpg`, `foundry.png`: Visual assets for documentation and presentations.
-  - `results/`:  
-    - `keyFrame.*.jpg`: Key frame images from video analysis.
-    - `sop.md`: SOP documentation.
 
 - **Documentation**
   - `README.md`: This file.
@@ -44,10 +29,10 @@ This repository is designed to accelerate technical enablement for HEWARE by pro
 ## Getting Started
 
 1. Clone the repository.
-2. Set up your environment variables using `azure.env.sample` as a template, and rename to azure.env
+2. Set up your environment variables using `azure.env.sample` as a template, and rename to azure.env or .env and modify notebooks accordingly.
 3. Install required dependencies from `requirements.txt`.
 4. Explore the Jupyter notebooks for step-by-step guides and code samples.
 
 ## License
 
-This repository is intended for technical enablement and demonstration purposes.
+This repository is intended ONLY for technical enablement and demonstration purposes.
