@@ -2,6 +2,8 @@
 
 This repository provides technical enablement resources, code samples, and demonstrations for HEWARE, focusing on leveraging the Azure AI Agent Service. The goal is to help teams understand, implement, and extend AI agent capabilities using Azure’s powerful AI and cloud services.
 
+![alt text](image.png)
+
 ## Repository Structure
 
 - **Jupyter Notebooks**  
