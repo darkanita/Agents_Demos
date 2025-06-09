@@ -1,3 +1,4 @@
 .env
 .venv
 azure.env
+AQ_TESTS/
