@@ -14,7 +14,9 @@
   <link rel="stylesheet" type="text/css" media="print" href="/static/browse/0.3.4/css/arXiv-print.css?v=20200611" />
   <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/browse_search.css" />
   <script language="javascript" src="/static/browse/0.3.4/js/accordion.js" /></script>
-  <link rel="canonical" href="https://arxiv.org/abs/2311.06242"/>
+      <link rel="stylesheet" type="text/css" media="screen" href="/static/browse/0.3.4/css/slider.css?v=20250312" />
+    <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/static/browse/0.3.4/js/donate.js?v=040725"></script><link rel="canonical" href="https://arxiv.org/abs/2311.06242"/>
   <meta name="description" content="Abstract page for arXiv paper 2311.06242: Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks"><meta property="og:type" content="website" />
 <meta property="og:site_name" content="arXiv.org" />
 <meta property="og:title" content="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks" />
@@ -39,7 +41,19 @@
 </head>
 
 <body  class="with-cu-identity">
-  
+  <aside class="slider-wrapper bps-banner forum green">
+        <a class="close-slider do-close-slider bps-banner" href="#"><img src="/static/browse/0.3.4/images/icons/close-slider.png" alt="close this message"></a>
+       <div class="columns">
+          <img role="presentation" class="bps-banner-image" src="/static/browse/0.3.4/images/icons/smileybones-pixel.png" alt="arXiv smileybones">
+          <div class="copy-donation bps-banner">
+            <h2>arXiv Is Hiring a DevOps Engineer</h2>
+            <p>Work on one of the world's most important websites and make an impact on open science.</p>
+          </div>
+          <div class="amount-donation bps-banner">
+            <div class="donate-cta"><a class="banner_link banner-btn-grad" target="_blank" href="https://info.arxiv.org/hiring/index.html"><b>View Jobs</b></a></div>
+          </div>
+        </div>
+      </aside>
   <div class="flex-wrap-footer">
     <header>
       <a href="#content" class="is-sr-only">Skip to main content</a>
@@ -50,7 +64,10 @@
         </div>
 
 
-        <!-- /from April 7 at 1:00 AM to May 29 at 21:40 --><!-- /from May 2 at 1:00 AM to May 5 at 9:45 AM --><div class="column" id="support-ack">
+        <!-- /from April 7 at 1:00 AM to June 4 at 11:30 PM --><div class="column banner-minimal forum">
+          <p>arXiv Is Hiring a DevOps Engineer</p>
+          <a href="https://info.arxiv.org/hiring/index.html" target="_blank">View Jobs</a>
+        </div><!-- /from May 2 at 1:00 AM to May 5 at 9:45 AM --><div class="column" id="support-ack">
           <span id="support-ack-url">We gratefully acknowledge support from the Simons Foundation, <a href="https://info.arxiv.org/about/ourmembers.html">member institutions</a>, and all contributors.</span>
           <a href="https://info.arxiv.org/about/donate.html" class="btn-header-donate">Donate</a>
         </div>
