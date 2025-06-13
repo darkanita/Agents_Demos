@@ -2,3 +2,4 @@
 .venv
 azure.env
 AQ_TESTS/
+create-repo.sh
