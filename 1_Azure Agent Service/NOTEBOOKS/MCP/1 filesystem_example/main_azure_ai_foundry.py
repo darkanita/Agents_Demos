@@ -62,7 +62,7 @@ async def run(mcp_server: MCPServer):
     print(result.final_output)
 
     # Ask a question that can't be answered, with a file that does not exist.
-    message = "Look at my sports. What is my favorite sport?"
+    message = "Look at my favorite cities. What is my favorite city to visit in the spring?"
     print(f"\n\nRunning: {message}")
     result = await Runner.run(starting_agent=agent, input=message)
     print(result.final_output)
