@@ -3,3 +3,4 @@
 azure.env
 AQ_TESTS/
 create-repo.sh
+model_config.yaml
