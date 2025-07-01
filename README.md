@@ -1,6 +1,6 @@
 # Azure AI Agent Service Technical Enablement for HEXAWARE
 
-This repository provides technical enablement resources, code samples, and demonstrations for HEXAWARE, focusing on leveraging the Azure AI Agent Service. The goal is to help teams understand, implement, and extend AI agent capabilities using Azure’s powerful AI and cloud services.
+This repository provides technical enablement resources, code samples, and demonstrations, focusing on leveraging the Azure AI Agent Service. The goal is to help teams understand, implement, and extend AI agent capabilities using Azure’s powerful AI and cloud services.
 
 ![alt text](image.png)
 
